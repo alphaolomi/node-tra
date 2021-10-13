@@ -1,5 +1,9 @@
 ## node-tra
 
+### This is a fork from https://github.com/husseinmkwizu/node-tra to maintain backwards compatibility and package stability
+
+### A more advaned implementation is avalibale at https://github.com/tra-developers/node-tra-sdk
+
 This package implements TRA (Tanzania Revenue Authority) APIs.
 
 ### Install
